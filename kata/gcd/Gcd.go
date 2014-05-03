@@ -9,6 +9,6 @@ func GcdEuclidModernIterative(n1, n2 int) int {
 
 }
 
-func TestGcdEuclidModernRecursiv(n1, n2 int) int {
+func GcdEuclidModernRecursive(n1, n2 int) int {
 
 }
