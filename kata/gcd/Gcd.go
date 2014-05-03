@@ -1,4 +1,3 @@
-// Gcd project Gcd.go
 package gcd
 
 func GcdEuclid(n1, n2 int) int {
