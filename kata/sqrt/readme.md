@@ -15,3 +15,7 @@ begin
 	return z
 end;	
 ```
+
+## Source
+http://en.wikipedia.org/wiki/Square_root
+tour.golang.org
